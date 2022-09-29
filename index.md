@@ -23,3 +23,9 @@ SELECT 'REBIND PACKAGE('
       from SYSIBM.SYSPACKDEP where bname = 'TBL_NAME')
     AND PDSNAME = 'PROD.DBRMLIB';
 ```
+
+And a task list too
+
+- [x] Add pretext for the task list
+- [x] Create the task list
+- [ ] Merge the whole enchilada when you're done

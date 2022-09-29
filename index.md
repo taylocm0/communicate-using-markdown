@@ -4,3 +4,6 @@
 #### H4: Getting smaller
 ##### h5: Almost the smallest
 ###### h6: small header
+
+
+![Image of Yaktocat, I took this from the tutorial text.](https://octodex.github.com/images/yaktocat.png)
